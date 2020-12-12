@@ -6,9 +6,9 @@ This repo uses to extract data from various resources such as Excel, csv, txt, m
 - Apache Airflow
 
 # Dev server 
-- flask run 
+- Apache airflow fork 
 
 # Production server 
-- use WSGI socket 
+- Apache airflow fork
 
 
