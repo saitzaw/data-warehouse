@@ -20,7 +20,7 @@ gspread==3.6.0
 httplib2==0.18.1
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kiwisolver==1.2.0
 ldap3==2.7
 MarkupSafe==1.1.1
